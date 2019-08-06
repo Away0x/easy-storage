@@ -1,0 +1,30 @@
+{
+  "name": "aw-easy-storage",
+  "version": "0.0.1",
+  "description": "sessionStorage & localStorage utils",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Away0x/aw-easy-storage"
+  },
+  "keywords": [
+    "typescript",
+    "sessionStorage",
+    "localStorage"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Away0x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Away0x/aw-easy-storage/issues"
+  },
+  "homepage": "https://github.com/Away0x/aw-easy-storage",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
